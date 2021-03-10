@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_3">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_3" data-name="Web 1920 – 3" clip-path="url(#clip-Web_1920_3)">
+    <rect width="1920" height="1080" fill="#fff5f9"/>
+    <ellipse id="Ellipse_16" data-name="Ellipse 16" cx="1261.5" cy="448" rx="1261.5" ry="448" transform="translate(-368 461)" fill="rgba(185,72,125,0.81)"/>
+    <text id="poncheck." transform="translate(80 98)" fill="#c4005b" font-size="37" font-family="KristenITC-Regular, Kristen ITC"><tspan x="0" y="0">poncheck.</tspan></text>
+    <text id="about_us" data-name="about us" transform="translate(594 607)" fill="#fff" font-size="24" font-family="Perpetua"><tspan x="0" y="0">About Us</tspan></text>
+    <text id="products" transform="translate(739 607)" fill="#fff" font-size="24" font-family="Perpetua"><tspan x="0" y="0">Products</tspan></text>
+    <text id="price_list" data-name="price list" transform="translate(887 607)" fill="#fff" font-size="24" font-family="Perpetua"><tspan x="0" y="0">Price List</tspan></text>
+    <text id="order" transform="translate(1046 607)" fill="#fff" font-size="24" font-family="Perpetua"><tspan x="0" y="0">Order</tspan></text>
+    <text id="contact" transform="translate(1193 607)" fill="#fff" font-size="24" font-family="Perpetua"><tspan x="0" y="0">Contact</tspan></text>
+    <text id="Find_us_" data-name="Find us " transform="translate(850 769)" fill="#fff" font-size="54" font-family="Perpetua"><tspan x="0" y="0">Find us </tspan></text>
+    <g id="instagram" transform="translate(761.476 820.841)">
+      <path id="Path_55" data-name="Path 55" d="M24.2,5.838A18.359,18.359,0,1,0,42.564,24.2,18.357,18.357,0,0,0,24.2,5.838Zm0,30.275A11.916,11.916,0,1,1,36.121,24.2,11.912,11.912,0,0,1,24.2,36.113Z" transform="translate(11.583 11.565)" fill="#fff"/>
+      <path id="Path_56" data-name="Path 56" d="M50.527.225c-6.583-.307-22.887-.292-29.476,0-5.79.271-10.9,1.67-15.014,5.787-6.881,6.881-6,16.153-6,29.75,0,13.917-.775,22.974,6,29.75,6.908,6.9,16.314,6,29.75,6,13.785,0,18.544.009,23.418-1.878,6.627-2.573,11.63-8.5,12.119-19.137.31-6.586.292-22.887,0-29.476-.59-12.56-7.331-20.177-20.8-20.8ZM60.947,60.96c-4.511,4.511-10.768,4.108-25.246,4.108-14.906,0-20.884.221-25.246-4.153-5.023-5-4.114-13.028-4.114-25.2,0-16.472-1.69-28.334,14.841-29.181,3.8-.134,4.916-.179,14.477-.179l.134.089c15.887,0,28.352-1.664,29.1,14.865.17,3.771.209,4.9.209,14.45,0,14.734.277,20.747-4.156,25.2Z" transform="translate(0 -0.001)" fill="#fff"/>
+      <ellipse id="Ellipse_17" data-name="Ellipse 17" cx="4.29" cy="4.29" rx="4.29" ry="4.29" transform="translate(50.584 12.388)" fill="#fff"/>
+    </g>
+    <path id="twitter" d="M1.447,68.064a52.851,52.851,0,0,0,28.377,8.178A52.234,52.234,0,0,0,68.112,60.194,52.074,52.074,0,0,0,82.471,23.477c3.575-3.059,7.779-8.9,7.779-14.591a2.849,2.849,0,0,0-4.288-2.455C82.6,8.4,79.542,8.92,76.392,8.036A20.325,20.325,0,0,0,52.319,4.8,19.555,19.555,0,0,0,41.7,23.124,47.157,47.157,0,0,1,11.112,6.416,2.849,2.849,0,0,0,6.46,6.8a19.834,19.834,0,0,0-.444,19.588,2.962,2.962,0,0,0-2.474,2.948,20.073,20.073,0,0,0,6.994,15.16,2.842,2.842,0,0,0-.729,2.948A20.43,20.43,0,0,0,21.369,59.826,33.135,33.135,0,0,1,3.322,62.839a2.847,2.847,0,0,0-1.875,5.225ZM30.6,60.8a2.848,2.848,0,0,0-1.673-5.1,14.844,14.844,0,0,1-11.657-6.064,20.073,20.073,0,0,0,3.886-.622,2.848,2.848,0,0,0-.182-5.536A14.608,14.608,0,0,1,9.906,33.536a19.64,19.64,0,0,0,4.341.577,2.849,2.849,0,0,0,1.62-5.221A14.14,14.14,0,0,1,9.811,13.455,52.911,52.911,0,0,0,44.862,29.1a2.84,2.84,0,0,0,2.911-3.48c-1.8-7.813,2.561-13.289,7.248-15.812a14.551,14.551,0,0,1,17.789,2.7c1.7,1.787,7.419,1.856,10.329,1.176a18.343,18.343,0,0,1-5.191,6.106,2.846,2.846,0,0,0-1.211,2.47,46.274,46.274,0,0,1-12.742,34A46.6,46.6,0,0,1,29.828,70.546a47.791,47.791,0,0,1-15.334-2.512A38.431,38.431,0,0,0,30.6,60.8Z" transform="translate(988.293 816.567)" fill="#fff"/>
+    <path id="facebook" d="M66.392,0H5.161A5.16,5.16,0,0,0,0,5.16V66.391a5.16,5.16,0,0,0,5.16,5.16H38.222V43.881H28.928V33.051h9.293V25.08c0-9.243,5.643-14.274,13.888-14.274a76.429,76.429,0,0,1,8.332.426v9.661H54.757c-4.486,0-5.355,2.132-5.355,5.26v6.9H60.128l-1.4,10.831H49.4V71.552h16.99a5.16,5.16,0,0,0,5.16-5.16V5.16A5.16,5.16,0,0,0,66.392,0Zm0,0" transform="translate(875.148 819.173)" fill="#fff"/>
+    <text id="E-mail:_poncheck_poncheck.com" data-name="E-mail: poncheck@poncheck.com" transform="translate(971 991)" fill="#fff" font-size="26" font-family="Perpetua"><tspan x="0" y="0">E-mail: poncheck@poncheck.com</tspan></text>
+    <text id="Phone:_0_222_123-45-67" data-name="Phone: +0 (222) 123-45-67" transform="translate(585 991)" fill="#fff" font-size="26" font-family="Perpetua"><tspan x="0" y="0">Phone: +0 (222) 123-45-67</tspan></text>
+  </g>
+</svg>
