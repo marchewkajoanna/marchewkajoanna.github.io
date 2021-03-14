@@ -1196,6 +1196,9 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
+	
+
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1436,9 +1439,12 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 40px;
 						}
-
+						
 		}
 
+
+		
+		}
 /* Form */
 
 	form label {
@@ -3098,3 +3104,4 @@ input, select, textarea {
 .opcje, .reszta {
 	margin-top: 6rem;
 }
+
