@@ -1664,6 +1664,7 @@ input, select, textarea {
 			button.alt:hover,
 			.button.alt:hover {
 				background: #ffffff;
+				color: #0000;
 			}
 
 			input[type="button"].alt:active,
@@ -2856,7 +2857,7 @@ input, select, textarea {
 					color: #252122;
 					font-weight: 900;
 					font-size: 1.75em;
-					letter-spacing: -0.035em;
+					letter-spacing: 1rem;
 				}
 
 		/* Intro */
